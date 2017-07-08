@@ -1,0 +1,9 @@
+ol, ul {
+  list-style: none;
+}
+ul {
+  list-style-type: disc;
+}
+.my-nav {
+  list-style-type: disc;
+}
